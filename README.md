@@ -1,6 +1,6 @@
 # CQRS with [Nest.js](https://docs.nestjs.com/recipes/cqrs#installation)
 
-### Intall
+### Install
 
 ```bash
 $ yarn install
