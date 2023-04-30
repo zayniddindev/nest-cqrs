@@ -6,4 +6,8 @@ export class UserRepository {
   async create(payload: { name: string }): Promise<User> {
     return new User(payload.name);
   }
+
+  async find(): Promise<User[]> {
+    return [];
+  }
 }
